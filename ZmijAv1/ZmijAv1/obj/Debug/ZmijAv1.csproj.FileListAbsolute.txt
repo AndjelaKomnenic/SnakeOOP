@@ -1,0 +1,10 @@
+E:\SkProg\ProjekatOOPv1\ZmijAv1\ZmijAv1\bin\Debug\ZmijAv1.exe.config
+E:\SkProg\ProjekatOOPv1\ZmijAv1\ZmijAv1\bin\Debug\ZmijAv1.exe
+E:\SkProg\ProjekatOOPv1\ZmijAv1\ZmijAv1\bin\Debug\ZmijAv1.pdb
+E:\SkProg\ProjekatOOPv1\ZmijAv1\ZmijAv1\obj\Debug\ZmijAv1.csprojAssemblyReference.cache
+E:\SkProg\ProjekatOOPv1\ZmijAv1\ZmijAv1\obj\Debug\ZmijAv1.Properties.Resources.resources
+E:\SkProg\ProjekatOOPv1\ZmijAv1\ZmijAv1\obj\Debug\ZmijAv1.csproj.GenerateResource.cache
+E:\SkProg\ProjekatOOPv1\ZmijAv1\ZmijAv1\obj\Debug\ZmijAv1.csproj.CoreCompileInputs.cache
+E:\SkProg\ProjekatOOPv1\ZmijAv1\ZmijAv1\obj\Debug\ZmijAv1.exe
+E:\SkProg\ProjekatOOPv1\ZmijAv1\ZmijAv1\obj\Debug\ZmijAv1.pdb
+E:\SkProg\ProjekatOOPv1\ZmijAv1\ZmijAv1\obj\Debug\ZmijAv1.Form1.resources
